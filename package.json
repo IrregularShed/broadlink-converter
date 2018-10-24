@@ -1,0 +1,21 @@
+{
+  "name": "broadlink-converter",
+  "version": "1.0.0",
+  "description": "JS version of a Python converter of IR codes from Pronto to Broadlink format",
+  "main": "convert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "broadlink",
+    "ir",
+    "remote controls",
+    "converter"
+  ],
+  "author": "Steve Anderson <steve@twindx.com>",
+  "repository": {
+    "url": "https://github.com/IrregularShed/broadlink-converter.git",
+    "type": "git"
+  },
+  "license": "MIT"
+}
